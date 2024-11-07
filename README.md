@@ -12,6 +12,10 @@ Soy egresado de la UTN como Técnico Universitario en Programación y también h
       Tailwind:😎,
       .NET:😎,
       SQL:😎,
+      HTML:😎,
+      CSS:😀,
+      Javascript:😀,
+      C#:😀,
     ],
     otros:[
       Python:😀,
