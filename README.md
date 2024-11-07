@@ -18,6 +18,15 @@ Soy egresado de la UTN como Técnico Universitario en Programación y también h
       Arduino:😀,
       Unity:🙂
     ]
-  }
+  },
+  aptitudes:[
+    "Trabajo en equipo":🤝,
+    "Liderazgo":👑,
+    "Compromiso":⚒,
+    "Organización":📋,
+    "Conocimientos generales en informática":💻,
+    "Conocimientos generales en electrónica y robotica":🤖,
+    "Interés continuo en capacitación":🤓
+  ]
 }
 ```
