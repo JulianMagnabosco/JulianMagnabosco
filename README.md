@@ -8,17 +8,20 @@ Soy egresado de la UTN como Técnico Universitario en Programación y también h
     principal:[
       Angular:🐐,
       SpringBoot:🐐,
-      Bootstrap:🐐,
+      Postgresql:🐐,
+      Docker:🐐,
       Tailwind:😎,
+      Django:😎,
+      Python:😎,
+    ],
+    otros:[
+      Bootstrap:😎,
       .NET:😎,
       SQL:😎,
       HTML:😎,
       CSS:😀,
       Javascript:😀,
       C#:😀,
-    ],
-    otros:[
-      Python:😀,
       Arduino:😀,
       Unity:🙂
     ]
